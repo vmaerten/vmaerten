@@ -11,7 +11,7 @@ I'm also a maintainer of [**go-task/task**](https://github.com/go-task/task) and
 
 ## 🔧 What I do
 
-I like solving problems — whether it's optimizing a slow query, scaling a data pipeline, or building tools that make developers' lives easier. Currently focused on high-volume data processing in the adtech space.
+I like solving problems, whether it's optimizing a slow query, scaling a data pipeline, or building tools that make developers' lives easier. Currently focused on high-volume data processing in the adtech space.
 
 ## 🚀 Projects
 
