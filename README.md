@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hey, I'm Valentin 👋
 
-<!--
-**vmaerten/vmaerten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/Blog-vmaerten.fr-blue?style=for-the-badge)](https://vmaerten.fr)
+[![X](https://img.shields.io/badge/X-@v__maerten-000?style=for-the-badge&logo=x)](https://x.com/v_maerten)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@vmaerten-0085ff?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/vmaerten.bsky.social)
+[![Sponsor](https://img.shields.io/badge/Sponsor_me-❤️-ea4aaa?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/vmaerten)
 
-Here are some ideas to get you started:
+Backend developer & infrastructure enthusiast working at **Pubstack**, an adtech company focused on programmatic advertising analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also a maintainer of [**go-task/task**](https://github.com/go-task/task) and an organizer of [**Touraine Tech**](https://touraine.tech) 🎤
+
+## 🔧 What I do
+
+I like solving problems — whether it's optimizing a slow query, scaling a data pipeline, or building tools that make developers' lives easier. Currently focused on high-volume data processing in the adtech space.
+
+## 🚀 Projects
+
+| Project | Description |
+|---------|-------------|
+| [file-nesting-config](https://github.com/vmaerten/file-nesting-config) | JetBrains plugin for VS Code-style file nesting in the Project View |
+| [albert-plugin-px-to-rem](https://github.com/vmaerten/albert-plugin-px-to-rem) | Albert launcher plugin to convert px ↔ rem |
+| [albert-plugin-jetbrains-projects](https://github.com/albertlauncher/albert-plugin-python-jetbrains-projects) | Albert plugin to quickly open JetBrains projects *(maintainer)* |
+
+## 🛠️ Tech I work with
+
+**Languages:** Go · TypeScript · Node.js  
+**Databases:** MongoDB · ClickHouse  
+**Cloud:** AWS (Lambda, SQS, API Gateway, S3...)  
+**Frontend:** React · Mantine UI  
+**Tools:** Terraform · GitHub Actions · GoReleaser
+
+## 💡 Current interests
+
+- High-throughput analytics systems
+- Infrastructure & cloud (Docker, AWS, Terraform...)
+- Developer tooling & CLI utilities
+- Open-source maintenance
+
+## 🖥️ Setup
+
+Fedora Linux · XFCE · Zellij
+
+📍 France · 🇫🇷 🇬🇧
