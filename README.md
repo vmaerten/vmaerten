@@ -1,9 +1,9 @@
 # Hey, I'm Valentin 👋
 
-[![Blog](https://img.shields.io/badge/Blog-vmaerten.fr-blue?style=for-the-badge)](https://vmaerten.fr)
-[![X](https://img.shields.io/badge/X-@v__maerten-000?style=for-the-badge&logo=x)](https://x.com/v_maerten)
-[![Bluesky](https://img.shields.io/badge/Bluesky-@vmaerten-0085ff?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/vmaerten.bsky.social)
-[![Sponsor](https://img.shields.io/badge/Sponsor_me-❤️-ea4aaa?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/vmaerten)
+[![Blog](https://img.shields.io/badge/-vmaerten.fr-blue?style=for-the-badge&logo=rss&logoColor=white)](https://vmaerten.fr)
+[![X](https://img.shields.io/badge/-@v__maerten-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/v_maerten)
+[![Bluesky](https://img.shields.io/badge/-@vmaerten-0085ff?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/vmaerten.bsky.social)
+[![Sponsor](https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/vmaerten)
 
 Backend developer & infrastructure enthusiast working at **Pubstack**, an adtech company focused on programmatic advertising analytics.
 
