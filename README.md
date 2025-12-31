@@ -19,6 +19,7 @@ I like solving problems, whether it's optimizing a slow query, scaling a data pi
 |---------|-------------|
 | [go-task/task](https://github.com/go-task/task) | Task runner / build tool written in Go *(maintainer)* |
 | [file-nesting-config](https://github.com/vmaerten/file-nesting-config) | JetBrains plugin for VS Code-style file nesting in the Project View *(creator)* |
+| [albert-plugin-sound-switcher](https://github.com/vmaerten/albert-plugin-sound-switcher) | Albert plugin to quickly switch audio outputs and move active streams *(creator)* |
 | [albert-plugin-px-to-rem](https://github.com/vmaerten/albert-plugin-px-to-rem) | Albert launcher plugin to convert px ↔ rem *(creator)* |
 | [albert-plugin-jetbrains-projects](https://github.com/albertlauncher/albert-plugin-python-jetbrains-projects) | Albert plugin to quickly open JetBrains projects *(maintainer)* |
 
